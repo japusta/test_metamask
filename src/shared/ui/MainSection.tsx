@@ -66,7 +66,7 @@ export const MainSection: React.FC = () => {
         <div className="absolute w-[370px] h-[370px] rounded-full border-2 border-grey-fewBlack bg-[#1E1E20]" />
         {/* Изображение планеты */}
         <img
-          src="/planet.png"
+          src={`${process.env.PUBLIC_URL}/planet.png`}
           alt="Planet"
           className="relative w-full max-w-[320px] z-[10]"
         />

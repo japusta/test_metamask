@@ -69,7 +69,7 @@ export const ParticipantPage: React.FC = () => {
           <div className="absolute w-[370px] h-[370px] rounded-full border-2 border-[#323232] bg-[#1E1E20]" />
 
           <img
-            src="/planet.png"
+            src={`${process.env.PUBLIC_URL}/planet.png`}
             alt="Planet"
             className="relative w-full max-w-[320px] z-[10]"
           />
