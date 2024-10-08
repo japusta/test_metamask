@@ -3,7 +3,7 @@ import { HomePage } from '../pages/home/HomePage';
 import {ParticipantPage} from '../pages/participante/ParticipantPage';
 
 export const AppRoutes = () => (
-  <Router>
+  <Router basename="/test_metamask">
     <Routes>
       <Route path="/" element={<HomePage />} />
       <Route path="/participant/:id" element={<ParticipantPage />} />
