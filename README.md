@@ -1,4 +1,4 @@
-весь проект в ветке master, зависимости устанавливаются командой `npm install --legacy-peer-deps` (из-за конфликтов)
+весь проект в ветке master, зависимости устанавливаются командой `npm install --legacy-peer-deps` (из-за конфликтов), запуск `npm start`, сборка и деплой проекта `npm run build` и `npm run deploy` соответсвенно
 
 использовал typescript,tailwind,TanStack Query, приложение построено по архитектуре FSD.
 
