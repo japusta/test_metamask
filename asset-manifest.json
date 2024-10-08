@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test_metamask/static/css/main.90930d82.css",
+    "main.js": "/test_metamask/static/js/main.dd439815.js",
+    "static/js/453.a6a97343.chunk.js": "/test_metamask/static/js/453.a6a97343.chunk.js",
+    "static/media/AvenirNextCyr-Italic.ttf": "/test_metamask/static/media/AvenirNextCyr-Italic.4561053d070a091c5ec1.ttf",
+    "static/media/AvenirNextCyr-Regular.ttf": "/test_metamask/static/media/AvenirNextCyr-Regular.d5515aff04ff81140f75.ttf",
+    "static/media/AvenirNextCyr-Bold.ttf": "/test_metamask/static/media/AvenirNextCyr-Bold.d7a7f3ccfe2942965a98.ttf",
+    "static/media/AvenirNextCyr-Italic.woff": "/test_metamask/static/media/AvenirNextCyr-Italic.4d29f034344d4bbd9d93.woff",
+    "static/media/AvenirNextCyr-Bold.woff": "/test_metamask/static/media/AvenirNextCyr-Bold.93c051e6b3c9fc42526b.woff",
+    "static/media/AvenirNextCyr-Regular.woff": "/test_metamask/static/media/AvenirNextCyr-Regular.1f3e188cad9e2dc3259b.woff",
+    "index.html": "/test_metamask/index.html",
+    "main.90930d82.css.map": "/test_metamask/static/css/main.90930d82.css.map",
+    "main.dd439815.js.map": "/test_metamask/static/js/main.dd439815.js.map",
+    "453.a6a97343.chunk.js.map": "/test_metamask/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90930d82.css",
+    "static/js/main.dd439815.js"
+  ]
+}
